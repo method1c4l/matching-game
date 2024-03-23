@@ -1,0 +1,10 @@
+#board {
+    max-width: 784px;
+    width: auto;
+}
+
+.card {
+    border: none;
+    background: radial-gradient(circle, hsla(155, 23%, 71%, 1) 0%, hsla(302, 17%, 32%, 1) 100%);
+    height: 180px;
+}
